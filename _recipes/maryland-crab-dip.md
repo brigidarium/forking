@@ -3,8 +3,10 @@
 layout: recipe
 title:  "Maryland Crab Dip"
 image: maryland-crab-dip.jpg
-imagecredit: goodiesfirst - flickr; the narrows crab dip by goodiesfirst is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
-tags: appetizer, seafood
+imagecredit: "goodiesfirst - flickr; the narrows crab dip by goodiesfirst is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse."
+tags: 
+- appetizer
+- seafood
 
 ingredients:
 - 8 oz cream cheese
